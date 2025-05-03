@@ -1,3 +1,4 @@
+
 import sys
 import pandas as pd
 from PySide6.QtWidgets import (QApplication, QMainWindow, QVBoxLayout, QHBoxLayout, 
@@ -823,3 +824,4 @@ class PowerCableSelectionApp(QMainWindow):
             QMessageBox.warning(self, "Input Error", f"Please enter valid values: {str(e)}")
             return
 
+>>>>>>> 252717ad19794ccc2d8c8e2692fe6d40e6da3471

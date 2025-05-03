@@ -1,3 +1,4 @@
+
 import pandas as pd
 from openpyxl import load_workbook
 
@@ -40,3 +41,4 @@ def excel_to_clean_csv(excel_path, sheet_name=0, output_csv='output.csv'):
 
 # Example usage
 excel_to_clean_csv("C:/Users/Casper/Desktop/EE374 Project Cable List.xlsx")
+

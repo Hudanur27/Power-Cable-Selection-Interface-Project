@@ -1,3 +1,4 @@
+
 ,,,,,,,,,
 Cable ID,Cable code,Voltage level,Current Capacity (A) at 20°C ...,Current Capacity (A) at 20°C :.,Resistance (ohm/km),Inductance ... (mH/km),Inductance :. (mH/km),Capacitance (uF/km),Price (TL/km)
 1,1x10 mm2,0.6/1 kV,81,69,1.83,0.34,0.41,NA,102300
@@ -67,3 +68,4 @@ Cable ID,Cable code,Voltage level,Current Capacity (A) at 20°C ...,Current Capa
 65,3x240 mm2,20.3/35 kV,NA,529,0.0754,NA,0.35,0.2,9400000
 66,3x300 mm2,20.3/35 kV,NA,626,0.0601,NA,0.29,0.22,11300000
 67,3x400 mm2,20.3/35 kV,NA,720,0.047,NA,0.28,0.24,14300000
+
