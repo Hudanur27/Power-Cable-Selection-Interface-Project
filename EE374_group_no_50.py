@@ -265,4 +265,4 @@ class CableCalculator:
         }
         
         return results
->>>>>>> 252717ad19794ccc2d8c8e2692fe6d40e6da3471
+
